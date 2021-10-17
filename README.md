@@ -1,6 +1,11 @@
-### Hi there 👋
+# Congratulation. You just found my github profile :)
+## About me
+I'm a ~~idiot~~ student who knows how to use D++
+I'm male. Contact me at [my Discord server](https://discord.gg/zEnfbNXrZt) or my tag: Brain Flooder#9985
+## My repositries
+Oh ye, it's open-sourced. Use it if you want. Just make sure to add credit.
 
-<!--
+<!--https://discord.gg/zEnfbNXrZt
 **Brain-Flooder/Brain-Flooder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
