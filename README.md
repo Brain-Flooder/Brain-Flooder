@@ -1,6 +1,6 @@
 # Congratulation. You just found my github profile :)
 ## About me
-I'm dumb. How to use (this lib)[https://github.com/hjfod/gd.h] (I need da docs).
+I'm dumb. How to use [this lib](https://github.com/hjfod/gd.h) (I need da docs).
 
 Contact me at Discord: Brain Flooder#9985 (DM is always open).
 ## Stat
