@@ -2,9 +2,9 @@
 ## About me
 Professional docs-reader. 
 
-Python is cool (cuz no pointer = no hell).
+Python is cool.
 
-I also play piano (Why when I tell my friend that I'm gonna play a sonata, they think that I'm going to play Moonlight Sonata).
+I also play piano.
 
 Contact me at Discord: `Brain Flooder#9985` (DM should always open).
 ## Stats
